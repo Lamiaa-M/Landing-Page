@@ -14,7 +14,3 @@ this is the first project for  Front End Web Development Professional
 * html for the content 
 *  css for the style 
 *  js for the interaction & behavior 
-
-
-
-
